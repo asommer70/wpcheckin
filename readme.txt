@@ -7,15 +7,15 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Post checkins to your WordPress site displayed in a widget or on any page via shortcode.  Using Google Places, choose a location closest to your geo location as determined by your browser's HTML5 location information.
+Post checkins to your WordPress site, and using Google Places choose a location closest to your geo location.
 
 == Description ==
 
 Why not be able to checkin on your blog so that your readers know where you are and have been?  Sure there are other checkin sites on the Internet, but now you can count your blog as one of them.
 
-WPCheckin uses a custom post type to store individual checkins.
+WPCheckin allows location checkins to be displayed in a widget or on any page via shortcode.  Using Google Places, choose a location closest to your geo location as determined by your browser's HTML5 location information.
 
-This plugin requires a Google API key to be able to retrieve locations nearby.
+This plugin requires a Google API key to be able to retrieve locations nearby, and stores checkins in a custom post type.
 
 == Installation ==
 
