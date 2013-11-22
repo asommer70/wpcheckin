@@ -1,8 +1,3 @@
-wpcheckin
-=========
-
-WordPress plugin allowing geo location checkins as well as nearby establishments via Google Places.
-
 === WPCheckin Widget and Shortcode ===
 Contributors: Adam Sommer
 Tags: widget, shortcode, API, Google Places, location, social
